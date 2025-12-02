@@ -1,3 +1,3 @@
 console.log('index.js');
 console.log('version13');
-console.logg('feature-A form hayleamalk');
+console.log('feature-A form hayleamalk');
